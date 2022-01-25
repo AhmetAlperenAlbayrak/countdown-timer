@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/AhmetAlperenAlbayrak/countdown-timer.git">
     <img src="https://www.maxpixel.net/static/photo/1x/Stopwatch-Countdown-Duration-Time-Timer-Clock-5539530.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -9,7 +9,7 @@
 <p align="center">
     Countdown Timer which counts down from a certain date
     <br />
-    <a href="https://AhmetAlperenAlbayrak/countdown-timer"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AhmetAlperenAlbayrak/countdown-timer.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://countdown-timer-ahmet.netlify.app/">View Demo</a>
