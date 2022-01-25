@@ -1,43 +1,45 @@
 * {
     box-sizing: border-box;
-    margin-top: 10rem;
+    margin: 0;
+    padding: 0;
+    color: white;
 }
 
 body {
-    background-image: url(./background.jpeg) ;
-    min-height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(/image.png);
     background-size: cover;
-    background-position: center center;
+
+
+
+}
+
+h2 {
+    font-size: 5rem;
+    padding: 3rem;
+    text-align: center;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-grow: 1;
+ 
+}
+
+.coming-soon {
+    /* with min height "100vh" we will use 100% of the screen size */
+    min-height: 100vh;
+    /* now we are display flexing in our main section so we could use flexbox */
+    display: flex;
     align-items: center;
-    font-family: monospace, sans-serif;
-    margin: 0;
+    /* In display flex our contents flow vertically but with flex direction we could change it to horizontally */
+    flex-direction: column;
+    justify-content: space-evenly;
 }
-
-h1 {
-    font-size: 4rem;
-    min-height: -10rem;
-    font-weight: normal;
-    margin-top: 2rem;
-
-}
-
-.countdown-container {
+.countdown {
     display: flex;
-}
-.big-text {
-    font-size: 6rem;
-    line-height: 1;
-    margin: 0 2rem;
-    font-weight:lighter
-}
-
-.countdown-el {
+    justify-content: space-around;
     text-align: center;
 }
 
-.countdown-el span {
-    font-size: 1.3rem
+.day, .hour, .mins, .second {
+    font-size: 3rem;
 }
+
