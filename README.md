@@ -18,7 +18,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://countdown-timer-ahmet.netlify.app/)
+![Alt text](/Project-Screenshot.png "Optional Title")
 
 Hello there!
 
